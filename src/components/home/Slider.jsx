@@ -49,7 +49,7 @@ const Slider = () => {
                 </SwiperSlide>
                 <SwiperSlide className=' text-center mb-6'>
                     <div className='object-cover bg-no-repeat lg:w-full lg:h-[580px] h-[400px] rounded-3xl bg-cover' style={{ backgroundImage: `linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.4)), url(${banner3})` }}>
-                        <div className='flex border flex-col justify-center h-full w-full items-end'>
+                        <div className='flex flex-col justify-center h-full w-full items-end'>
                             <div className="flex flex-col lg:items-center md:items-end items-center md:pr-8">
                             <h3 className='lg:text-5xl text-white font-bold md:text-3xl text-2xl'>The Great <span className="text-[#cf17cf]">FASHION COLLECTION</span></h3>
                             <p className='lg:w-[50%] md:w-[50%] w-[90%]  text-white md:mt-9 mt-5 '>Discover the ultimate style hub! Explore our Great Fashion Collection timeless trends, bold looks, and exclusive designs.</p>
