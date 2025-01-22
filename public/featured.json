@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "name": "Vintage Denim Jacket",
+      "category": "Winter Collection",
+      "price": 59.99,
+      "discount": 10,
+      "rating": 4.5,
+      "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
+      "description": "Stylish and comfortable vintage denim jacket perfect for cold days.",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Floral Summer Dress",
+      "category": "Dresses",
+      "price": 39.99,
+      "discount": 15,
+      "rating": 4.7,
+      "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
+      "description": "Lightweight and vibrant floral dress ideal for summer outings.",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Graphic Oversized T-Shirt",
+      "category": "Shirts and Tops",
+      "price": 29.99,
+      "discount": 8,
+      "rating": 4.2,
+      "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
+      "description": "Comfortable oversized t-shirt with a modern graphic design.",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Classic Leather Boots",
+      "category": "Footwear",
+      "price": 89.99,
+      "discount": 20,
+      "rating": 4.8,
+      "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
+      "description": "Durable and elegant leather boots that pair well with any outfit.",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Round Sunglasses",
+      "category": "Accessories",
+      "price": 25.99,
+      "discount": 5,
+      "rating": 4.6,
+      "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
+      "description": "Trendy round sunglasses with UV protection.",
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "High-Waisted Skinny Jeans",
+      "category": "Casual Wear",
+      "price": 49.99,
+      "discount": 12,
+      "rating": 4.4,
+      "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
+      "description": "Figure-flattering high-waisted skinny jeans made with stretchable fabric.",
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Sequin Party Dress",
+      "category": "Party Wear",
+      "price": 79.99,
+      "discount": 18,
+      "rating": 4.9,
+      "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
+      "description": "Sparkling sequin dress designed for glamorous evening events.",
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Hooded Streetwear Jacket",
+      "category": "Streetwear",
+      "price": 64.99,
+      "discount": 10,
+      "rating": 4.7,
+      "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
+      "description": "Trendy hooded jacket with an urban streetwear style.",
+      "inStock": true
+    }
+  ]
