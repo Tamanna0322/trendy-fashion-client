@@ -8,7 +8,7 @@
       "rating": 4.5,
       "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
       "description": "Stylish and comfortable vintage denim jacket perfect for cold days.",
-      "inStock": true
+      "inStock": "sale"
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
       "rating": 4.7,
       "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
       "description": "Lightweight and vibrant floral dress ideal for summer outings.",
-      "inStock": true
+      "inStock": "sale"
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "rating": 4.2,
       "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
       "description": "Comfortable oversized t-shirt with a modern graphic design.",
-      "inStock": true
+      "inStock": "stockout"
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
       "rating": 4.8,
       "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
       "description": "Durable and elegant leather boots that pair well with any outfit.",
-      "inStock": true
+      "inStock": "sale"
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
       "rating": 4.6,
       "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
       "description": "Trendy round sunglasses with UV protection.",
-      "inStock": true
+      "inStock": "stockout"
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
       "rating": 4.4,
       "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
       "description": "Figure-flattering high-waisted skinny jeans made with stretchable fabric.",
-      "inStock": true
+      "inStock": "sale"
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
       "rating": 4.9,
       "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
       "description": "Sparkling sequin dress designed for glamorous evening events.",
-      "inStock": true
+      "inStock": "sale"
     },
     {
       "id": 8,
@@ -85,6 +85,6 @@
       "rating": 4.7,
       "image": "https://i.ibb.co.com/vZFvLVC/sunglass.jpg",
       "description": "Trendy hooded jacket with an urban streetwear style.",
-      "inStock": true
+      "inStock": "sale"
     }
   ]
